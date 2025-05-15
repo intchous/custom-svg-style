@@ -8,3 +8,4 @@ scikit-image
 pandas
 transformers
 gradio
+peft

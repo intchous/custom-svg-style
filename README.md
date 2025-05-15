@@ -66,7 +66,6 @@ python setup.py install
 
     Adjust `test_num` to control how many samples are produced per prompt.
 
----
 
 > **Tips**  
 > - Diffusion sampling is stochastic. Vary the random seed or adjust the sampling settings to explore different outputs.  
