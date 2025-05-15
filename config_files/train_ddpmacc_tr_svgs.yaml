@@ -1,0 +1,48 @@
+# input_dim
+n_args: 7
+only_black_white_color: False
+use_cont_path_idx: True
+
+add_style_token: False
+
+signature: "IconShop_diffvg_select_conti"
+svgrepo_signature: ""
+
+similarity_threshold: 0.1
+select_threshold: 0
+
+pre_nlayer: 18
+feature_dim: 2048
+dim_transformer: 800
+nhead: 12
+nlayer: 28
+
+learning_rate: 0.00003
+
+# "ns", "x0rec","ns+x0rec"
+loss_type: "x0rec"
+conditioning_dropout_prob: 0.1
+
+use_glb: False
+use_LCScheduler: True
+discrete_t: False
+use_norm_out: False
+
+resume_from_checkpoint_notmatch: False
+resume_from_checkpoint_match: False
+pretrained_fn: "1000"
+
+batch_size: 14
+loader_num_workers: 7
+validate_interval: 2
+
+max_total_len: 401
+max_points: 401
+max_paths_len_thresh: 31
+
+dittype: "diffusers"
+
+xy_scale: 1.0
+
+label_condition: True
+use_sum_loss: True

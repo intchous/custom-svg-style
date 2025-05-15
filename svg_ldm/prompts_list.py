@@ -1,0 +1,7 @@
+def get_prompt_description_vecdiffusion_list():
+
+    prompt_description_vecdiffusion_list = [
+        "book", "schedule", "calendar", "car", "bank", "building", "beer", "globe", "gift", "trophy", "crown", "joker", "boy", "basket", "compas", "donut", "cake", "house", "camera", "horse", "cat", "dog", "penguin", "sailboat", "elephant", "ladder", "camping tent", "cupcake", "salmon", "sushi", "castle", "submarine", "spaceship", "Bicycle", "torii gate", "robot",  "compass", "frog", "mushroom", "bee", "flower", "hamburger", "fox", "cello", "erupting volcano", "octopus", "pig", "backpack", "snail", "leaf", "roulette wheel", "rabbit", "tiger",  "bus", "sloth", "vase", "dog", "chimpanzee", "owl", "giraffe", "rooster",   "motorcycle", "plane",  "bear", "cactus", "Earth", "Fire", "wolf", "whale", "koala", "clock", "teapot", "train", "boat", "pumpkin", "knight", "peacock", "grapes", "bell",  "Chinese temple", "castle",  "watermelon", "macaw", "sakura tree",  "temple", "coffee cup", "bookshelf", "air conditioner", "apple", "cheese", "cherry", "clock tower", "crab", "flower", "hat", "headphones", "ice cream", "laptop", "mailbox", "maple leaf", "mountain", "pancake", "parrot", "peach", "shark", "shield", "smartphone", "squirrel", "telescope", "trash bin", "truck", "jacket", "pickup truck", "piano", "mouse", "oak tree", "ship", "cruise ship", "cottage", "coconut tree", "medicine bottle", "parasol", "drink", "bank card", "printer", "school",   "weighing scale", "pizza"
+    ]
+
+    return prompt_description_vecdiffusion_list

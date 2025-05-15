@@ -1,0 +1,10 @@
+numpy
+matplotlib
+cairosvg
+diffusers
+tensorboardX
+tqdm
+scikit-image
+pandas
+transformers
+gradio
