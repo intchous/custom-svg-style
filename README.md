@@ -1,6 +1,6 @@
 # Style Customization of Text-to-Vector Generation with Image Diffusion Priors
 
-[![arXiv](https://img.shields.io/badge/)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2505.10558-b31b1b.svg)](https://arxiv.org/abs/2505.10558)
 [![website](https://img.shields.io/badge/Website-Gitpage-4CCD99)](https://customsvg.github.io/)
 
 ## Setup
