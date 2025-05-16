@@ -61,7 +61,7 @@ python setup.py install
 
 3. **or run the inference script**:
     ~~~bash
-    CUDA_VISIBLE_DEVICES=0 python -m svg_ldm.test_ddpm_tr_svgs --test_num 4
+    CUDA_VISIBLE_DEVICES=0 python -m svg_ldm.test_ddpm_tr_svgs
     ~~~
 
     Adjust `test_num` to control how many samples are produced per prompt.
